@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tmrrwnxtsn
+- 👀 I’m interested in programming, cycling, and design. 
+- 🌱 I’m currently learning Java and Python.
