@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @tmrrwnxtsn
-- 👀 I’m interested in programming, cycling, and design. 
-- 🌱 I’m currently learning Java and Python.
+<h1 align="left">Hi, I'm Pavel Kurmyza 👋</h1>
+
+- 👨‍💻 VK | Instagram | Telegram: **@tmrrwnxtsn**
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tmrrwnxtsn&show_icons=true&hide_title=true" alt="tmrrwnxtsn" /></p>
