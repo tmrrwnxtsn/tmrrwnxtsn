@@ -2,7 +2,7 @@
 
 - 💻 Mainly focused on Golang & Python
 - 🔥 Interested in backend, design and marketing
-- 💬 Currently working on chatbots with the schedule of my university (Stack: **Golang, Postgres**): [VK bot](http://vk.me/scheduleofulstu), [Telegram bot](https://t.me/scheduleofulstubot)
+- 💬 Currently working on chatbots with the schedule of my university: [VK bot](http://vk.me/scheduleofulstu), [Telegram bot](https://t.me/scheduleofulstubot) (Stack: **Golang, Postgres**)
 - 👨‍💻 VK | Instagram | Telegram: **@tmrrwnxtsn**
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tmrrwnxtsn&show_icons=true&hide_title=true" alt="tmrrwnxtsn" /></p>
