@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Pavel
 
 - 👨‍💻 Beginning backend-developer
-- 👨‍💻 Mainly focused on Golang & Python
+- 🎯 Mainly focused on Golang & Python
 - 🔥 Also interested in design and SMM
 - 💬 Currently working on chatbots with the schedule of my university: [VK bot](http://vk.me/scheduleofulstu), [Telegram bot](https://t.me/scheduleofulstubot)
 
