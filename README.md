@@ -1,9 +1,15 @@
-<h1 align="left">Hi, I'm Pavel Kurmyza 👋</h1>
+###👋 Hello, I'm Pavel
 
-- 💻 Mainly focused on Golang & Python
-- 🔥 Interested in backend, design and SMM
+- 👨‍💻 Beginning backend-developer
+- 👨‍💻 Mainly focused on Golang & Python
+- 🔥 Also interested in design and SMM
 - 💬 Currently working on chatbots with the schedule of my university: [VK bot](http://vk.me/scheduleofulstu), [Telegram bot](https://t.me/scheduleofulstubot)
-- 👨‍💻 [VK](https://vk.me/tmrrwnxtsn) | [Instagram](https://www.instagram.com/tmrrwnxtsn/) | [Telegram](https://t.me/tmrrwnxtsn): **@tmrrwnxtsn**
+
+###🤝 Connect with me
+
+[<img alt="tmrrwnxtsn | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.me/tmrrwnxtsn)
+[<img alt="tmrrwnxtsn | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/tmrrwnxtsn)
+[<img alt="tmrrwnxtsn | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/tmrrwnxtsn/)
 
 <table>
   <tr>
