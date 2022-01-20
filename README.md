@@ -2,8 +2,8 @@
 
 - 👨‍💻 A beginner backend-developer
 - 🎯 Mainly focused on Golang & Python
-- 🔥 Interested in design and SMM
-- 💬 Currently working on chatbots with the schedule of my university: [VK bot](http://vk.me/scheduleofulstu), [Telegram bot](https://t.me/scheduleofulstubot)
+- 🔥 Interested in web development, computer science, ML and NLP
+- 💬 Currently working on [chatbots with the schedule of my university](https://github.com/UlSTU-Schedule) and [a package for analyzing and uploading text documents with SRS to MongoDB](https://github.com/Text-Analysis/srsparser)
 
 ## 🤝 Connect with me
 
