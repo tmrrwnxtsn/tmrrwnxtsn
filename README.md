@@ -16,8 +16,5 @@
     <td>
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tmrrwnxtsn&theme=algolia" alt="webDev's Github stats" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tmrrwnxtsn&theme=algolia&layout=compact" />
-    </td>
   </tr>
 </table>
