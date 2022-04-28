@@ -3,7 +3,7 @@
 - 👨‍💻 A beginner backend-developer
 - 🎯 Mainly focused on Golang
 - 🔥 Interested in web development, computer science, ML and NLP
-- 💬 Currently working on [chatbots with the schedule of my university](https://github.com/UlSTU-Schedule) and [a package for analyzing and uploading text documents with SRS to MongoDB](https://github.com/Text-Analysis/srsparser)
+- 💬 Currently working on [chatbots with the schedule of my university](https://github.com/UlSTU-Schedule) and [system that translates text documents into a structured form in accordance with JSON templates and extracts keywords](https://github.com/Text-Analysis)
 
 ## 🤝 Connect with me
 
