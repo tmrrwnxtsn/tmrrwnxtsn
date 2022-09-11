@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Pavel
 
-- 👨‍💻 Backend-developer
-- 🎯 Mainly focused on Golang
+- 👨‍💻 Golang developer
 - 🔥 Interested in web development, computer science, ML and NLP
 - 💬 Currently working on [chatbots with the schedule of my university](https://github.com/UlSTU-Schedule) and [system that translates text documents into a structured form in accordance with JSON templates and extracts keywords](https://github.com/Text-Analysis)
 
